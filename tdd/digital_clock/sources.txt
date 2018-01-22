@@ -1,0 +1,10 @@
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\main\it\mcella\kata\DigitsParser.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\main\it\mcella\kata\DigitsParserException.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\main\it\mcella\kata\DigitsReader.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\main\it\mcella\kata\Main.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\test\it\mcella\kata\DigitsParserTest.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\test\it\mcella\kata\DigitsReaderTest.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\test\it\mcella\kata\MainIT.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\test\it\mcella\kata\MainTest.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\test\it\mcella\kata\TestRunner.java
+C:\Users\lullaby\Documents\Sviluppo\Projects\Java\Java-kata\tdd\digital_clock\src\test\it\mcella\kata\TestSuite.java

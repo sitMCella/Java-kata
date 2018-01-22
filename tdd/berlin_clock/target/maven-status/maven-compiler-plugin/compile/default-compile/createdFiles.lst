@@ -1,0 +1,8 @@
+it\mcella\kata\berlinclock\BerlinClock.class
+it\mcella\kata\berlinclock\BerlinClockException.class
+it\mcella\kata\berlinclock\LowerHours.class
+it\mcella\kata\berlinclock\Seconds.class
+it\mcella\kata\berlinclock\TimeParse.class
+it\mcella\kata\berlinclock\HigherMinutes.class
+it\mcella\kata\berlinclock\HigherHours.class
+it\mcella\kata\berlinclock\LowerMinutes.class

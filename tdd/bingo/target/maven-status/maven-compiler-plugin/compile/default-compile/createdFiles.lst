@@ -1,0 +1,8 @@
+it\mcella\kata\bingo\Caller.class
+it\mcella\kata\bingo\Column.class
+it\mcella\kata\bingo\Main.class
+it\mcella\kata\bingo\Player.class
+it\mcella\kata\bingo\Card.class
+it\mcella\kata\bingo\CardGenerator.class
+it\mcella\kata\bingo\Bingo.class
+it\mcella\kata\bingo\CallerException.class
